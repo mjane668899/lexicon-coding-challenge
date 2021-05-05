@@ -7,7 +7,7 @@
 
 ## Homepage
 
-![Home Page](https://github.com/mjane668899/lexicon-coding-challenge/tree/main/public/images/homepage.png)
+![Home Page](https://github.com/mjane668899/lexicon-coding-challenge/blob/main/public/images/homepage.png)
 
 ## Features
 
@@ -22,9 +22,9 @@ To view a demo example, **[click here](https://laughing-poitras-62ac62.netlify.a
 
 ## Folder Structure
 
-![Folder Structure](https://github.com/mjane668899/lexicon-coding-challenge/tree/main/public/images/folder.png)
+![Folder Structure](https://github.com/mjane668899/lexicon-coding-challenge/blob/main/public/images/folder.png)
 
-![Explaination](https://github.com/mjane668899/lexicon-coding-challenge/tree/main/public/images/images/folder1.png)
+![Explaination](https://github.com/mjane668899/lexicon-coding-challenge/blob/main/public/images/folder1.png)
 
 ## Deployment 📦
 
