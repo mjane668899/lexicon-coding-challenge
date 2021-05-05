@@ -1,0 +1,21 @@
+.user-icon {
+  float: right;
+  width: 120px;
+  height: 31px;
+  margin: 16px 0px 0px 0px;
+  font-size: 40px;
+}
+/* This css is for Content Container */
+.container-container {
+  text-align: center;
+  margin: 20px;
+  padding: 1em;
+  display: inline-block;
+}
+
+/* This is for Div */
+.site-card-wrapper {
+  display: block;
+  margin: auto;
+  background: black;
+}

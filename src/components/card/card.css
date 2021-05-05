@@ -1,0 +1,21 @@
+/* This css is for Content Container */
+.container-container {
+  margin: 20px;
+  padding: 1em;
+  display: inline-block;
+  justify-content: space-between;
+}
+
+.img {
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
+
+.card {
+  margin: auto;
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 5px;
+  width: 100%;
+}
